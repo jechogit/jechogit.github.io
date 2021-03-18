@@ -3,7 +3,6 @@ layout: post
 title: Prueba de markdown
 ---
 
-# Markdown Title
 
 
 ## Lista
